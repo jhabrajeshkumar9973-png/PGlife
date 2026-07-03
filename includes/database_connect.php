@@ -1,9 +1,9 @@
 <?php
 $conn = mysqli_connect(
     "bn9qtfihhqmjmmsizz7v-mysql.services.clever-cloud.com",
-    "bn9qtfihhqmjmmsizz7v",
     "usy0m5lemjkk30lh",
-    "yeYn6lShcCi9AjDI0d4S"
+    "_yeYn6lShcCi9AjD10d4S",
+    "bn9qtfihhqmjmmsizz7v"
 );
 
 if (!$conn || mysqli_connect_errno()) {
